@@ -1,0 +1,136 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 788px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 274px;
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  width: 638px;
+  margin: -220px auto 0;
+}
+
+.u-section-1 .u-gallery-1 {
+  height: 499px;
+  width: 930px;
+  margin: 38px auto -21px;
+}
+
+.u-section-1 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 10px;
+}
+
+.u-section-1 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 785px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 836px;
+    margin-top: 35px;
+    margin-bottom: 57px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1274px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -198px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    height: 967px;
+    width: 652px;
+    margin-top: 34px;
+    margin-bottom: 37px;
+  }
+
+  .u-section-1 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 3574px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 323px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 413px;
+    margin-top: -225px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    height: 3204px;
+    width: 456px;
+    margin-top: 24px;
+    margin-bottom: 44px;
+  }
+
+  .u-section-1 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2818px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 387px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 262px;
+    margin-top: -288px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    height: 2389px;
+    width: 301px;
+    margin-top: 31px;
+    margin-bottom: -228px;
+  }
+}
